@@ -1,0 +1,11 @@
+Readme
+
+---------------------------------------------------------------
+
+Tải VSCode trên trang: https://code.visualstudio.com/Download
+Vào VSCode ấn vào biểu tượng Extension(Ctrl+Shilt+X) ở thanh công cụ phía bên trái, trong khung tìm kiếm Live Server và ấn install
+Khởi động lại VScode
+Mở dự án
+Chọn Go Live dưới góc phải màn hình Vscode
+
+---------------------------------------------------------------
